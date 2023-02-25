@@ -20,7 +20,7 @@ It was a great learning experience and looking forward to doing more projects. I
 ### Links
 
 - Solution URL: (https://github.com/felixgn9/QR-code-component.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://felixgn9.github.io/QR-code-component/)
 
 ## My process
 
